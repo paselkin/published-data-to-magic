@@ -1,0 +1,4 @@
+tab 	locations
+age	age_sigma	age_unit	geologic_classes	lat_n	lat_s	lithologies	location	location_type	lon_e	lon_w	sites
+179.2	1.8	Ma	Igneous:Extrusive	-28.762	-30.764	Basalt	Naude's Nek	Stratigraphic Section	28.5767	28.0208	NN38:NN39:NN40:NN42:NN43:NN44:NN45:NNPR:NN46:NN47:ND48:ND49:ND50:ND51:ND52:ND53:ND54:ND55:ND56:ND57:ND58:ND59:ND60
+179.2	1.8	Ma	Igneous:Extrusive	-28.762	-30.764	Basalt	Oxbow-Moteng Pass	Stratigraphic Section	28.5767	28.0208	MP24:MP23:MP22:MP21:MP20:MP19:MP18:MP17:MP16:MP15:MP14:MP13
