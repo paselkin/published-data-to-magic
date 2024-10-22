@@ -1,54 +1,6 @@
 tab 	locations
-age	age_sigma	age_unit	description	dir_alpha95	dir_dec	dir_inc	dir_k	dir_n_sites	geologic_classes	lat_n	lat_s	lithologies	location	location_type	lon_e	lon_w	result_type	sites
-180	5	Ma	Mafika		334.8	-60.7		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-1	Outcrop	29.33	27.82	i	M-1
-180	5	Ma	Mafika	2.103427508177824	335.24332231954594	-60.952676239242415	14099.637456307342	2	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-10	Outcrop	29.33	27.82	a	M-35:M-33
-180	5	Ma	Mafika		334.6	-62.9		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-11	Outcrop	29.33	27.82	i	M-37
-180	5	Ma	Mafika		339.6	-58.4		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-12	Outcrop	29.33	27.82	i	M-39
-180	5	Ma	Mafika		11.1	-45.8		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-13	Outcrop	29.33	27.82	i	M-41
-180	5	Ma	Mafika		357.7	-54.8		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-14	Outcrop	29.33	27.82	i	M-43
-180	5	Ma	Mafika		353.3	-58.3		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-15	Outcrop	29.33	27.82	i	M-45
-180	5	Ma	Mafika		348.3	-52.2		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-16	Outcrop	29.33	27.82	i	M-47
-180	5	Ma	Mafika	2.379878536229782	333.6045741848395	-52.65269351726527	11014.668669969755	2	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-17	Outcrop	29.33	27.82	a	M-51:M-49
-180	5	Ma	Mafika		348.9	-63.7		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-18	Outcrop	29.33	27.82	i	M-53
-180	5	Ma	Mafika		344.0	-65.8		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-19	Outcrop	29.33	27.82	i	M-55
-180	5	Ma	Mafika	1.1749015020538673	338.7431833216493	-52.78929860226051	4242.618844522613	5	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-2	Outcrop	29.33	27.82	a	M-13:M-11:M-9:M-7:M-3
-180	5	Ma	Mafika	3.9932433196153747	344.06598402828047	-53.00554610255694	3913.6195966973546	2	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-20	Outcrop	29.33	27.82	a	M-61:M-59
-180	5	Ma	Mafika	5.955498600584501	347.29192972996356	-59.727714568114806	1760.6661416354111	2	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-21	Outcrop	29.33	27.82	a	M-66:M-64
-180	5	Ma	Mafika		0.3	-70.2		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-22	Outcrop	29.33	27.82	i	M-67
-180	5	Ma	Mafika		352.7	-65.9		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-23	Outcrop	29.33	27.82	i	M-69
-180	5	Ma	Mafika	1.1004270714470872	333.51980544268406	-53.82175377506207	4836.180283730271	5	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-24	Outcrop	29.33	27.82	a	M-84:M-82:M-80:M-76:M-71
-180	5	Ma	Mafika		336.0	-49.9		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-25	Outcrop	29.33	27.82	i	M-86
-180	5	Ma	Mafika	0.6380609848039035	335.200846895346	-54.351641652567196	20737.14481746105	4	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-26	Outcrop	29.33	27.82	a	M-93:M-91:M-89:M-88
-180	5	Ma	Mafika		337.1	-58.3		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-27	Outcrop	29.33	27.82	i	M-95
-180	5	Ma	Mafika	1.973969457418519	328.293990973879	-75.35008533619433	16009.380628557696	2	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-28	Outcrop	29.33	27.82	a	M-101:M-100
-180	5	Ma	Mafika	2.785405685958998	342.79605873149006	-48.4713536011965	1959.9143539087418	3	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-3	Outcrop	29.33	27.82	a	M-18:M-17:M-15
-180	5	Ma	Mafika		325.6	-50.0		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-4	Outcrop	29.33	27.82	i	M-21
-180	5	Ma	Mafika		330.9	-51.9		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-5	Outcrop	29.33	27.82	i	M-22
-180	5	Ma	Mafika		331.7	-35.3		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-6	Outcrop	29.33	27.82	i	M-24
-180	5	Ma	Mafika	0.6743457290816843	330.5502052776188	-38.10009534085431	137164.0309642341	2	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-7	Outcrop	29.33	27.82	a	M-27:M-26
-180	5	Ma	Mafika		333.5	-36.2		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-8	Outcrop	29.33	27.82	i	M-29
-180	5	Ma	Mafika		334.3	-40.3		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GM-9	Outcrop	29.33	27.82	i	M-30
-180	5	Ma	Nazareth	50.538289105054616	167.01929090338731	53.293888132210185	26.56756444825716	2	Igneous:Extrusive	-29.07	-30.76	Basalt	GN-1	Outcrop	29.33	27.82	a	N-1:N-2
-180	5	Ma	Nazareth		167.5	60.3		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GN-2	Outcrop	29.33	27.82	i	N-3
-180	5	Ma	Nazareth		166.5	72.0		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GN-3	Outcrop	29.33	27.82	i	N-4
-180	5	Ma	Nazareth		171.4	68.3		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GN-4	Outcrop	29.33	27.82	i	N-5
-180	5	Ma	Rhodes	1.5069056940321275	155.2480462752795	51.20086295093825	27470.063099094277	2	Igneous:Extrusive	-29.07	-30.76	Basalt	GR-1	Outcrop	29.33	27.82	a	R-1:R-6
-180	5	Ma	Rhodes		159.5	44.0		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GR-2	Outcrop	29.33	27.82	i	R-2
-180	5	Ma	Rhodes		145.2	37.9		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GR-3	Outcrop	29.33	27.82	i	R-3
-180	5	Ma	Sani Pass		152.1	45.9		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GSP-1	Outcrop	29.33	27.82	i	SP-1
-180	5	Ma	Sani Pass	2.277929213231834	146.40149597214227	40.60017246917094	12022.469550042562	2	Igneous:Extrusive	-29.07	-30.76	Basalt	GSP-10	Outcrop	29.33	27.82	a	SP-20:SP-19
-180	5	Ma	Sani Pass	7.642725768427705	152.09752146575954	39.05004266930884	1069.9152206794092	2	Igneous:Extrusive	-29.07	-30.76	Basalt	GSP-11	Outcrop	29.33	27.82	a	SP-21a:SP-21
-180	5	Ma	Sani Pass		146.1	36.8		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GSP-12	Outcrop	29.33	27.82	i	SP-22
-180	5	Ma	Sani Pass	3.538504200034037	152.64081247997078	59.50916851967563	4983.575609097344	2	Igneous:Extrusive	-29.07	-30.76	Basalt	GSP-2	Outcrop	29.33	27.82	a	SP-4:SP-2
-180	5	Ma	Sani Pass	6.14628590304038	178.00983830130093	54.114181007591895	1653.1841381751874	2	Igneous:Extrusive	-29.07	-30.76	Basalt	GSP-3	Outcrop	29.33	27.82	a	SP-10:SP-8
-180	5	Ma	Sani Pass		177.8	61.8		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GSP-4	Outcrop	29.33	27.82	i	SP-11
-180	5	Ma	Sani Pass		187.1	69.5		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GSP-5	Outcrop	29.33	27.82	i	SP-13
-180	5	Ma	Sani Pass		164.3	54.7		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GSP-6	Outcrop	29.33	27.82	i	SP-14
-180	5	Ma	Sani Pass		154.2	39.7		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GSP-7	Outcrop	29.33	27.82	i	SP-15
-180	5	Ma	Sani Pass		159.7	40.4		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GSP-8	Outcrop	29.33	27.82	i	SP-16
-180	5	Ma	Sani Pass		140.0	41.0		1	Igneous:Extrusive	-29.07	-30.76	Basalt	GSP-9	Outcrop	29.33	27.82	i	SP-18
-180	5	Ma	Sani Pass		160.0	60.1		1	Igneous:Extrusive	-29.07	-30.76	Basalt	N/A	Outcrop	29.33	27.82	i	SP-17
-180	5	Ma		3.9232592510145743	340.242246413395	-55.10578049210192	49.2492372478928	28	Igneous:Extrusive	-29.07	-30.76	Basalt	Mafika	Stratigraphic Section	29.33	27.82	a	M-26:M-82:M-41:M-17:M-55:M-64:M-51:M-35:M-29:M-37:M-89:M-53:M-49:M-27:M-86:M-22:M-11:M-43:M-69:M-18:M-15:M-9:M-33:M-101:M-1:M-100:M-84:M-71:M-88:M-30:M-24:M-13:M-76:M-39:M-95:M-91:M-21:M-45:M-67:M-3:M-66:M-59:M-47:M-93:M-61:M-80:M-7
-180	5	Ma		9.577542301888796	167.9768788880726	63.48914574272042	92.99790029534351	4	Igneous:Extrusive	-29.07	-30.76	Basalt	Nazareth	Stratigraphic Section	29.33	27.82	a	N-4:N-3:N-5:N-1:N-2
-180	5	Ma		13.108008364074355	152.97082367165248	44.53305747750565	89.5053992818439	3	Igneous:Extrusive	-29.07	-30.76	Basalt	Rhodes	Stratigraphic Section	29.33	27.82	a	R-3:R-6:R-2:R-1
-180	5	Ma		7.07205233217758	156.82572694595441	50.10854754318198	35.32891806127135	13	Igneous:Extrusive	-29.07	-30.76	Basalt	Sani Pass	Stratigraphic Section	29.33	27.82	a	SP-21:SP-14:SP-17:SP-20:SP-15:SP-1:SP-10:SP-8:SP-13:SP-18:SP-2:SP-4:SP-11:SP-21a:SP-16:SP-19:SP-22
+age	age_sigma	age_unit	dir_alpha95	dir_dec	dir_inc	dir_k	dir_n_sites	geologic_classes	lat_n	lat_s	level_1	lithologies	location	location_type	lon_e	lon_w	result_type	sites	time
+180	5	Ma	3.5353544906524452	338.90622664430305	-54.69485410952787	60.4933973865831	28	Igneous:Extrusive	-29.07	-29.07	0	Basalt	Mafika	Outcrop	28.38	28.38	a	Mafika	16.132524799999373
+180	5	Ma	14.14729609407785	167.10138917498233	61.786081295307895	43.64492626373428	4	Igneous:Extrusive	-29.41	-29.41	0	Basalt	Nazareth	Outcrop	27.82	27.82	a	Nazareth	3.4632000000001426
+180	5	Ma	13.225071152611312	153.52654804081192	46.267903702402585	88.61313557858564	3	Igneous:Extrusive	-30.76	-30.76	0	Basalt	Rhodes	Outcrop	28.02	28.02	a	Rhodes	3.2617513999994117
+180	5	Ma	7.4737939017605095	156.49062477797202	49.090945916821916	34.859448063996325	12	Igneous:Extrusive	-29.6	-29.6	0	Basalt	Sani Pass	Outcrop	29.33	29.33	a	Sani Pass	6.628269300000284
