@@ -185,7 +185,9 @@ def group_average(dir_df, nb=500, column_map=None, flip=True, return_distributio
     
   
     """
-    dir_df=dir_df.dropna()
+    dir_df=dir_df.dropna(subset=['dir_dec','dir_inc'])
+    if nb>0:
+        dir_df=dir_df.dropna(subset=['dir_n','dir_k'])
     N = dir_df.shape[0] # Note: N counts only non-NaN elements
     if N>1:
         if column_map is not None:
